@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 04 16:17:56 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-9255-7930-000007495688 
+on database directory C:\Users\asus\Desktop\SimpleChat\USERDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/D:/eclipse/eclipse-workspace/ChatFinalCode/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\asus\Desktop\SimpleChat
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
